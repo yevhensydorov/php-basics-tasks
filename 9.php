@@ -3,8 +3,8 @@
     <title>PHP lessons</title>
 </head>
 <body>
-<?php 
-	$name = "Yevhen"; 
-?>
+	<?php 
+		$day = 7;
+	?>
 </body>
 </html>
